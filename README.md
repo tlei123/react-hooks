@@ -1,3 +1,11 @@
+<h1>React Hooks - forked from Kent C Dodds' repo</h1>
+
+<strong>DO NOT FORK FROM HERE!</strong>  Fork from <a href="https://github.com/kentcdodds/react-hooks">Kent's repo</a> instead.  This fork is just for tracking my own changes while learning Kent's online-course, and maybe some personal customiaztions.  I would've made this fork private if GitHub let me, but I surmise you can only fork publically from a public repo.  Oh well!
+
+[Content below is from Kent's README.]
+
+<hr />
+
 <div>
   <h1 align="center"><a href="https://epicreact.dev/hooks">🎣 React Hooks 🚀 EpicReact.Dev</a></h1>
   <strong>
