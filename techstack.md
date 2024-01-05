@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 tlei123/react-hooks is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -11,11 +12,13 @@ tlei123/react-hooks is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 tlei123/react-hooks is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -25,14 +28,15 @@ tlei123/react-hooks is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [tlei123/react-hooks](https://github.com/tlei123/react-hooks)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|17<br/>Tools used|11/12/23 <br/>Report generated|
+|18<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -145,15 +149,16 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (6)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (6)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (7)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[@testing-library/react](https://www.npmjs.com/@testing-library/react)|v11.2.7|11/06/21|Kent C. Dodds |MIT|N/A|
 |[@types/react](https://www.npmjs.com/@types/react)|v17.0.34|11/06/21|Kent C. Dodds |MIT|N/A|
 |[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v17.0.11|11/06/21|Kent C. Dodds |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.8|01/16/21|Kent C. Dodds |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|04/15/19|Kent C. Dodds |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|11/06/21|Kent C. Dodds |MIT|N/A|
 |[react-scripts](https://www.npmjs.com/react-scripts)|v4.0.3|11/06/21|Kent C. Dodds |MIT|N/A|
@@ -161,4 +166,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
