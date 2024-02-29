@@ -2,7 +2,7 @@ repo_name: tlei123/react-hooks
 report_id: 984d50f1769f4d37a4e66d6e8320ccab
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:50:09+00:00'
+timestamp: '2024-02-29T18:39:20+00:00'
 requested_by: tlei123
 provider: github
 branch: main
@@ -105,7 +105,7 @@ tools:
   last_updated_by: Kent C. Dodds
   last_updated_on: 2020-11-03 21:49:33.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.4.1
   license: MIT
